@@ -1,7 +1,7 @@
 # network_scanner
 
 step 1 : copy code and clone into your terminal
-        "git clone "
+        "git clone https://github.com/krishna-grayhat/network_scanner.git"
 
 step 2 : install the requirments.txt exp:- pip install -r requirments.txt
 
